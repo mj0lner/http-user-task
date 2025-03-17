@@ -18,4 +18,6 @@ GET /users/leaderboard
 ![{8D4268CA-FBD3-4567-82C6-6B0821410FA7}](https://github.com/user-attachments/assets/664a2824-fc2f-4b40-b8db-614cd1818e11)
 
 POST /users/{id}/referre
+![{504A1A53-3C73-4151-8D75-BE657C3ECE87}](https://github.com/user-attachments/assets/4b3a7878-7382-4089-9042-62de2eee5645)
+
 
